@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "vacancy": 2,
+    "min-bid-amount": 13.0,
+    "students": [
+        {
+            "userid": "charlie",
+            "amount": 301.0,
+            "balance": 49.0,
+            "status": "success"
+        },
+        {
+            "userid": "busybody",
+            "amount": 12.0,
+            "balance": 38.0,
+            "status": "success"
+        },
+        {
+            "userid": "apple",
+            "amount": 10.0,
+            "balance": 40.0,
+            "status": "fail"
+        }
+    ]
+}

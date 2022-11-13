@@ -1,0 +1,896 @@
+{
+    "status": "success",
+    "course": [
+        {
+            "course": "CS001",
+            "school": "SCS",
+            "title": "Number Systems",
+            "description": "Learn about binary (0101010101010101010101010101)",
+            "exam date": "20161224",
+            "exam start": "630",
+            "exam end": "700"
+        },
+        {
+            "course": "CS002",
+            "school": "SCS",
+            "title": "Compilers",
+            "description": "Trains a student to be a human compiler.",
+            "exam date": "20161225",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "CS003",
+            "school": "SCS",
+            "title": "Relax",
+            "description": "How to slow your pace to SMU network standard.",
+            "exam date": "20161226",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "CS004",
+            "school": "SCS",
+            "title": "Fluff and Smoke",
+            "description": "All about smoking your way through.",
+            "exam date": "20161227",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "CS005",
+            "school": "SCS",
+            "title": "Complain & Whine",
+            "description": "How to write complaint letters!",
+            "exam date": "20161228",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS001",
+            "school": "SMOO",
+            "title": "Project Management",
+            "description": "How to be a world-class dictator?",
+            "exam date": "20161220",
+            "exam start": "113",
+            "exam end": "115"
+        },
+        {
+            "course": "IS002",
+            "school": "SMOO",
+            "title": "OpenShift 101",
+            "description": "Hosting 101, all the nuts and bolts",
+            "exam date": "20161219",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS003",
+            "school": "SMOO",
+            "title": "Amazon Web Services",
+            "description": "It's cloudy today. The haze is killing!",
+            "exam date": "20161221",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS004",
+            "school": "SMOO",
+            "title": "UAT",
+            "description": "User Acceptance Test for Beginners",
+            "exam date": "20161222",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "JUMPING",
+            "school": "SMOO",
+            "title": "Jumping Up and Down",
+            "description": "It's Very Fun!!!",
+            "exam date": "20161220",
+            "exam start": "1851",
+            "exam end": "1857"
+        },
+        {
+            "course": "T1234EZ",
+            "school": "SMOO",
+            "title": "BIOS",
+            "description": "Everything about basic input\/output system",
+            "exam date": "20161219",
+            "exam start": "1850",
+            "exam end": "2050"
+        },
+        {
+            "course": "T1234PZ",
+            "school": "SMOO",
+            "title": "JSON",
+            "description": "Bye XML! Welcome JSON!",
+            "exam date": "20161219",
+            "exam start": "800",
+            "exam end": "1531"
+        },
+        {
+            "course": "T1234YZ",
+            "school": "SMOO",
+            "title": "<3",
+            "description": "Java! Java! Java!",
+            "exam date": "20161219",
+            "exam start": "1846",
+            "exam end": "1849"
+        }
+    ],
+    "section": [
+        {
+            "course": "CS001",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Adelene GOH",
+            "venue": "Instruction Area 2-1",
+            "size": 2
+        },
+        {
+            "course": "CS001",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Benjamin GOH",
+            "venue": "Instruction Area 2-2",
+            "size": 5
+        },
+        {
+            "course": "CS001",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Charlie GOH",
+            "venue": "Instruction Area 2-3",
+            "size": 5
+        },
+        {
+            "course": "CS001",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Doctor GOH",
+            "venue": "Instruction Area 2-4",
+            "size": 5
+        },
+        {
+            "course": "CS001",
+            "section": "S5",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Evelyn GOH",
+            "venue": "Instruction Area 2-5",
+            "size": 5
+        },
+        {
+            "course": "CS002",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Father GOH",
+            "venue": "Instruction Area 3-1",
+            "size": 5
+        },
+        {
+            "course": "CS002",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Gila GOH",
+            "venue": "Instruction Area 3-2",
+            "size": 5
+        },
+        {
+            "course": "CS002",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Howdy GOH",
+            "venue": "Instruction Area 3-3",
+            "size": 5
+        },
+        {
+            "course": "CS002",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Ivy GOH",
+            "venue": "Instruction Area 3-4",
+            "size": 5
+        },
+        {
+            "course": "CS002",
+            "section": "S5",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Joe GOH",
+            "venue": "Instruction Area 3-5",
+            "size": 5
+        },
+        {
+            "course": "CS003",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "King GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "CS003",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Linn GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "CS003",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Mean GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 5
+        },
+        {
+            "course": "CS003",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Notti GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "CS003",
+            "section": "S5",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Opera GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "CS004",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "King GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "CS004",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Linn GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "CS004",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Mean GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 5
+        },
+        {
+            "course": "CS004",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Notti GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "CS004",
+            "section": "S5",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Opera GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Penny GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Queen GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Restless GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Sorrie GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S5",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Timothy GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "CS005",
+            "section": "S6",
+            "day": "Friday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Timothy GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Adelene GOH",
+            "venue": "Instruction Area 2-1",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Benjamin GOH",
+            "venue": "Instruction Area 2-2",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Charlie GOH",
+            "venue": "Instruction Area 2-3",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Doctor GOH",
+            "venue": "Instruction Area 2-4",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S5",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Evelyn GOH",
+            "venue": "Instruction Area 2-5",
+            "size": 5
+        },
+        {
+            "course": "IS001",
+            "section": "S6",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Father GOH",
+            "venue": "Instruction Area 2-6",
+            "size": 5
+        },
+        {
+            "course": "IS002",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Gila GOH",
+            "venue": "Instruction Area 3-1",
+            "size": 2
+        },
+        {
+            "course": "IS002",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Howdy GOH",
+            "venue": "Instruction Area 3-2",
+            "size": 5
+        },
+        {
+            "course": "IS002",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Ivy GOH",
+            "venue": "Instruction Area 3-3",
+            "size": 5
+        },
+        {
+            "course": "IS002",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Joe GOH",
+            "venue": "Instruction Area 3-4",
+            "size": 5
+        },
+        {
+            "course": "IS002",
+            "section": "S5",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "King GOH",
+            "venue": "Instruction Area 3-5",
+            "size": 5
+        },
+        {
+            "course": "IS003",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Linn GOH",
+            "venue": "Instruction Area 3-6",
+            "size": 2
+        },
+        {
+            "course": "IS003",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Mean GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "IS003",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Notti GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "IS003",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Opera GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 5
+        },
+        {
+            "course": "IS003",
+            "section": "S5",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "King GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "IS004",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Linn GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "IS004",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Mean GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "IS004",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Notti GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "IS004",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Opera GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 2
+        },
+        {
+            "course": "IS004",
+            "section": "S5",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Penny GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "JUMPING",
+            "section": "S99",
+            "day": "Sunday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Jumping GOH",
+            "venue": "Outside",
+            "size": 9999
+        },
+        {
+            "course": "T1234EZ",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Queen GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "T1234EZ",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Restless GOH",
+            "venue": "Instruction Area 4-1",
+            "size": 5
+        },
+        {
+            "course": "T1234EZ",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Sorrie GOH",
+            "venue": "Instruction Area 4-2",
+            "size": 5
+        },
+        {
+            "course": "T1234EZ",
+            "section": "S4",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Timothy GOH",
+            "venue": "Instruction Area 4-3",
+            "size": 5
+        },
+        {
+            "course": "T1234EZ",
+            "section": "S5",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Unity GOH",
+            "venue": "Instruction Area 4-4",
+            "size": 5
+        },
+        {
+            "course": "T1234PZ",
+            "section": "S1",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Vanity GOH",
+            "venue": "Instruction Area 4-5",
+            "size": 5
+        },
+        {
+            "course": "T1234PZ",
+            "section": "S2",
+            "day": "Friday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Way GOH",
+            "venue": "Instruction Area 4-6",
+            "size": 5
+        },
+        {
+            "course": "T1234YZ",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "XiXi GOH",
+            "venue": "Instruction Area 4-7",
+            "size": 5
+        },
+        {
+            "course": "T1234YZ",
+            "section": "S9",
+            "day": "Saturday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Weekend GOH",
+            "venue": "Random Place 1234 abcd",
+            "size": 5
+        }
+    ],
+    "student": [
+        {
+            "userid": "amy",
+            "password": "1234",
+            "name": "Amy KOH",
+            "school": "SMOO",
+            "edollar": 40.0
+        },
+        {
+            "userid": "apple",
+            "password": "1234",
+            "name": "Apple CHUA",
+            "school": "SCS",
+            "edollar": 50.0
+        },
+        {
+            "userid": "benny",
+            "password": "2345",
+            "name": "Benny KOH",
+            "school": "SMOO",
+            "edollar": 4.95
+        },
+        {
+            "userid": "busybody",
+            "password": "2345",
+            "name": "busybody CHUA",
+            "school": "SCS",
+            "edollar": 50.0
+        },
+        {
+            "userid": "charlie",
+            "password": "3456",
+            "name": "Charlie CHUA",
+            "school": "SCS",
+            "edollar": 350.0
+        },
+        {
+            "userid": "chloe",
+            "password": "3456",
+            "name": "Chloe KOH",
+            "school": "SMOO",
+            "edollar": 50.0
+        },
+        {
+            "userid": "danny",
+            "password": "4567",
+            "name": "Danny KOH",
+            "school": "SMOO",
+            "edollar": 50.0
+        },
+        {
+            "userid": "desperate",
+            "password": "4567",
+            "name": "Desperate CHUA",
+            "school": "SCS",
+            "edollar": 350.0
+        },
+        {
+            "userid": "elene",
+            "password": "5678",
+            "name": "Elene CHUA",
+            "school": "SCS",
+            "edollar": 50.0
+        },
+        {
+            "userid": "evil",
+            "password": "5678",
+            "name": "Evil KOH",
+            "school": "SMOO",
+            "edollar": 10.01
+        },
+        {
+            "userid": "fluffy",
+            "password": "6789",
+            "name": "Fluffy CHUA",
+            "school": "SCS",
+            "edollar": 50.0
+        },
+        {
+            "userid": "funny",
+            "password": "6789",
+            "name": "Funny KOH",
+            "school": "SMOO",
+            "edollar": 0.0
+        },
+        {
+            "userid": "gabriel",
+            "password": "7890",
+            "name": "Gabriel KOH",
+            "school": "SMOO",
+            "edollar": 40.0
+        },
+        {
+            "userid": "heaven",
+            "password": "8901",
+            "name": "Heaven KOH",
+            "school": "SMOO",
+            "edollar": 50.0
+        }
+    ],
+    "prerequisite": [
+        {
+            "course": "CS002",
+            "prerequisite": "CS001"
+        },
+        {
+            "course": "IS002",
+            "prerequisite": "IS001"
+        }
+    ],
+    "bid": [
+        {
+            "userid": "gabriel",
+            "amount": 10.0,
+            "course": "IS002",
+            "section": "S1"
+        }
+    ],
+    "completed-course": [
+        {
+            "userid": "amy",
+            "course": "IS001"
+        },
+        {
+            "userid": "evil",
+            "course": "IS001"
+        },
+        {
+            "userid": "fluffy",
+            "course": "IS001"
+        },
+        {
+            "userid": "funny",
+            "course": "IS001"
+        },
+        {
+            "userid": "gabriel",
+            "course": "IS001"
+        }
+    ],
+    "section-student": [
+        {
+            "userid": "evil",
+            "course": "IS002",
+            "section": "S1",
+            "amount": 24.99
+        },
+        {
+            "userid": "amy",
+            "course": "IS003",
+            "section": "S2",
+            "amount": 10.0
+        },
+        {
+            "userid": "funny",
+            "course": "IS003",
+            "section": "S2",
+            "amount": 39.99
+        },
+        {
+            "userid": "benny",
+            "course": "IS004",
+            "section": "S3",
+            "amount": 10.01
+        },
+        {
+            "userid": "funny",
+            "course": "IS004",
+            "section": "S5",
+            "amount": 10.01
+        },
+        {
+            "userid": "benny",
+            "course": "JUMPING",
+            "section": "S99",
+            "amount": 10.01
+        },
+        {
+            "userid": "benny",
+            "course": "T1234EZ",
+            "section": "S4",
+            "amount": 10.01
+        },
+        {
+            "userid": "benny",
+            "course": "T1234PZ",
+            "section": "S2",
+            "amount": 10.01
+        },
+        {
+            "userid": "benny",
+            "course": "T1234YZ",
+            "section": "S9",
+            "amount": 10.01
+        },
+        {
+            "userid": "evil",
+            "course": "T1234YZ",
+            "section": "S1",
+            "amount": 15.0
+        }
+    ]
+}

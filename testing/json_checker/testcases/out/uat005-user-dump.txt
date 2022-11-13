@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "userid": "fluffy",
+    "password": "6789",
+    "name": "Fluffy CHUA",
+    "school": "SCS",
+    "edollar": 50.0
+}

@@ -1,0 +1,377 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 7
+        },
+        {
+            "course.csv": 16
+        },
+        {
+            "course_completed.csv": 3
+        },
+        {
+            "prerequisite.csv": 5
+        },
+        {
+            "section.csv": 27
+        },
+        {
+            "student.csv": 21
+        }
+    ],
+    "error": [
+        {
+            "file": "bid.csv",
+            "line": 3,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 4,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 5,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 6,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 7,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 14,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 15,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 16,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 17,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 18,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 19,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 20,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 21,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 22,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 23,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "bid.csv",
+            "line": 24,
+            "message": [
+                "not own school course"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 12,
+            "message": [
+                "blank course"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 13,
+            "message": [
+                "blank school"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 14,
+            "message": [
+                "blank title"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 15,
+            "message": [
+                "blank description"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 16,
+            "message": [
+                "blank exam date"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 17,
+            "message": [
+                "blank exam start"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 18,
+            "message": [
+                "blank exam end"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 19,
+            "message": [
+                "invalid exam end"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "line": 5,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "line": 6,
+            "message": [
+                "invalid userid"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "line": 7,
+            "message": [
+                "blank userid"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "line": 8,
+            "message": [
+                "blank code"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 6,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 7,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 8,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 10,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 11,
+            "message": [
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 12,
+            "message": [
+                "blank prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 13,
+            "message": [
+                "blank course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 24,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 25,
+            "message": [
+                "blank course",
+                "blank section",
+                "blank day",
+                "blank start",
+                "blank end",
+                "blank instructor",
+                "blank venue"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 26,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 27,
+            "message": [
+                "invalid course",
+                "invalid day",
+                "invalid end",
+                "invalid size"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 28,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 29,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 30,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 31,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 4,
+            "message": [
+                "blank userid"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 5,
+            "message": [
+                "blank password"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 6,
+            "message": [
+                "blank name"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 7,
+            "message": [
+                "blank school"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 8,
+            "message": [
+                "blank edollar"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 28,
+            "message": [
+                "duplicate userid"
+            ]
+        }
+    ]
+}

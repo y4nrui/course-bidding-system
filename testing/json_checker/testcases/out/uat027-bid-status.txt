@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "vacancy": 2,
+    "min-bid-amount": 11.0,
+    "students": [
+        {
+            "userid": "fluffy",
+            "amount": 11.0,
+            "balance": 39.0,
+            "status": "success"
+        },
+        {
+            "userid": "gabriel",
+            "amount": 10.0,
+            "balance": 40.0,
+            "status": "success"
+        }
+    ]
+}

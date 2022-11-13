@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "vacancy": 2,
+    "min-bid-amount": 32.0,
+    "students": [
+        {
+            "userid": "parker.ng.2009",
+            "amount": 32.0,
+            "balance": 168.0,
+            "status": "Success"
+        },
+        {
+            "userid": "amy.ng.2009",
+            "amount": 31.0,
+            "balance": 169.0,
+            "status": "Success"
+        },
+        {
+            "userid": "xavier.ng.2009",
+            "amount": 30.0,
+            "balance": 170.0,
+            "status": "Fail"
+        }
+    ]
+}
